@@ -55,12 +55,8 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611zrawupjr28oxvhi0xfppn6da9r8elvoibyfb7gpp&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/RokaiaKhalid/RokaiaKhalid/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611zrawupjr28oxvhi0xfppn6da9r8elvoibyfb7gpp&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
